@@ -13,8 +13,7 @@
 
 <p><img src="PicsArt_01-22-11.00.53.jpg" hight="500" width="400"> </p>
 <h2 style="color:blueviolet"> memories boss!!!</h2>
-<p><img src="WhatsApp Image 2021-01-22 at 10.52.22 PM.jpeg"hight="300" width="200">
- </p>
+<p><img src="WhatsApp Image 2021-01-22 at 10.52.22 PM.jpeg"hight="300" width="200"></p>
  <h2 style="color:red"> pubg boss/bot killer TOXXi</h2>
  <p><img src="WhatsApp Image 2021-01-22 at 10.53.24 PM (1).jpeg" hight="300" width="200">
 
