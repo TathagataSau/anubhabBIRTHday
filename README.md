@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
 <head> <link rel="stylesheet" href="s2.css"> <title>  Birthday Gift </title>   </head>
 
@@ -18,7 +18,7 @@
  <h2 style="color:red"> pubg boss/bot killer TOXXi</h2>
  <p><img src="WhatsApp Image 2021-01-22 at 10.53.24 PM (1).jpeg" hight="300" width="200">
 
-    <img src="WhatsApp Image 2021-01-22 at 10.53.24 PM.jpeg" hight="300" width="200"> </p>
+   <img src="WhatsApp Image 2021-01-22 at 10.53.24 PM.jpeg" hight="300" width="200"> </p>
     
 
 <p>from Tathagata</p>
